@@ -129,12 +129,17 @@ hr {
 }
 
 #team-content a {
-  font-size: 1.5rem;
-  color: #ffff00;
+  color: black;
 }
 #team-content a :hover {
-  color: #BFB3A4;
+  color: #91E9F2;
   transition: 0.3s;
+}
+#team-content p {
+  font-size: 2rem;
+}
+#team-content i {
+  font-size: 2rem;
 }
 
 #contact-page {
